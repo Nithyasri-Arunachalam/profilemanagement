@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileManagement", "ProfileManagement\ProfileManagement.csproj", "{994CC3CD-8461-454F-BBDC-5E8C310AAAE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994CC3CD-8461-454F-BBDC-5E8C310AAAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994CC3CD-8461-454F-BBDC-5E8C310AAAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994CC3CD-8461-454F-BBDC-5E8C310AAAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994CC3CD-8461-454F-BBDC-5E8C310AAAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8AAA18-5D30-4AB6-AFB0-F70C68A34B3A}
+	EndGlobalSection
+EndGlobal
